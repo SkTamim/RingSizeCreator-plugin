@@ -1,6 +1,12 @@
 # Indian Ring Size Creator for Rhino 5 & Matrix 9
 
-**RingSizeCreator** is an intelligent plugin to create ring rails using Indian sizes or diameters (mm).
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub release](https://img.shields.io/github/v/release/SkTamim/RingSizeCreator-plugin)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub all releases](https://img.shields.io/github/downloads/SkTamim/RingSizeCreator-plugin/total)
+![GitHub stars](https://img.shields.io/github/stars/SkTamim/RingSizeCreator-plugin?style=social)
+
+> **RingSizeCreator** is an intelligent plugin to create ring rails using Indian sizes or diameters (mm).
 It works perfectly in both **Matrix 9** and **standalone Rhino 5**.
 
 ---
