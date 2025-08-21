@@ -18,7 +18,7 @@ It works perfectly in both **Matrix 9** and **standalone Rhino 5**.
 3. **Unblock the File:** This is a crucial step. Right-click on the `RingSizeCreator.rhp` file, select **Properties**, check the **"Unblock"** box at the bottom of the General tab, and click **OK**. If you don't see the Unblock box, the file is not blocked.
 3.  **Install in Rhino/Matrix:** Drag the downloaded file directly into your Rhino / Matrix viewport and click "Install".
 4.  OR you can use the plugin manager of Rhino / Matrix to "Install" the plugin.
-5.    **If you are still confused, go and watch the tutorial Video on Installation, [Click Here]()**
+5.    **If you are still confused, go and watch the tutorial Video on Installation, [Click Here](https://youtu.be/VxE-pJ5rtd4)**
 ---
 
 ## How to Use
@@ -26,7 +26,7 @@ It works perfectly in both **Matrix 9** and **standalone Rhino 5**.
 1.  Type `RingSizeCreator` in the Rhino/Matrix command line and press **Enter**.
 2.  The plugin starts in **Indian Size** mode. Just type a size and press **Enter**.
 3.  To switch to **Diameter** mode, click on the `Diameter` option in the command line before typing your number.
-4.  **To watch the demo video, [Click Here]()**
+4.  **To watch the demo video, [Click Here](https://youtu.be/Hcx-VEPsUO0)**
 
 ---
 
